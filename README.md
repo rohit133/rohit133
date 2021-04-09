@@ -9,7 +9,7 @@ I'm Rohit Sharma I am currently a junior at Lovely Professional University,Phagw
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rohit133&theme=radical&show_icons=true" alt="image"/>
 </p>
-#
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=rohit133&color=red" alt="image"/>
+<img src="https://komarev.com/ghpvc/?username=rohit133&color=green" alt="image"/>
 </p>
