@@ -1,6 +1,6 @@
 # Hello World ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I'm Rohit Sharma I am currently a junior at Lovely Professional University,Phagwara.
+## I'm Rohit Sharma
 
 ### Skills: 
 Python Programming / JS / JAVA / ML / HTML / CSS / 
