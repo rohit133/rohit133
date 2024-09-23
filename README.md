@@ -1,6 +1,6 @@
 # Hi, I'm Rohit Sharma <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Backend Developer | Node.js | Python | JavaScript | React | Cloud | DevOps
-Welcome to my GitHub! I am a passionate backend developer with a knack for building scalable architectures, and robust APIs, and creating seamless user experiences. My skillset spans multiple languages, frameworks, and tools, all to craft solutions that push boundaries in innovative ways.
+Welcome to my GitHub! I am a passionate backend developer with a knack for building scalable architectures, and robust APIs and creating seamless user experiences. My skillset spans multiple languages, frameworks, and tools, all to craft solutions that push boundaries in innovative ways.
 
 I believe in constant learning and enjoy diving deep into new technologies. Currently, I’m focusing on Node.js, Python, and cloud technologies to build efficient, scalable backend systems.
 
@@ -15,7 +15,7 @@ I believe in constant learning and enjoy diving deep into new technologies. Curr
 
 ### 🚀 Projects:
 #### Keeper
-A full-stack note-taking application where users can create, view, update, and delete notes. Built with React and Material UI for the frontend, Express.js and MongoDB for the backend, and hosted on Vercel and Render.
+A full-stack note-taking application where users can create, view, update, and delete notes. Built with React and Material UI for the Frontend, Express.js, and MongoDB for the backend, and hosted on Vercel and Render.
 
 
 #### OpenD Marketplace
@@ -32,12 +32,6 @@ An NFT marketplace where users can mint, buy, and sell NFTs using crypto tokens.
 - Advanced DevOps tools and containerization with Docker & Kubernetes.
 - In-depth cloud services (AWS, GCP).
 - In-depth AI/ML frameworks like TensorFlow, and PyTorch.
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit133" alt="rohit133" /> 
-  <be>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit133" alt="rohit133" /></p>
-
 
 
 ### 📫 How to reach me:
