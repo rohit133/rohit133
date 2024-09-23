@@ -31,11 +31,12 @@ An NFT marketplace where users can mint, buy, and sell NFTs using crypto tokens.
 ### 🌱 I’m learning:
 - Advanced DevOps tools and containerization with Docker & Kubernetes.
 - In-depth cloud services (AWS, GCP).
-- In-depth AI/ML frameworks like TensorFlow, PyTorch.
+- In-depth AI/ML frameworks like TensorFlow, and PyTorch.
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit133&show_icons=true&locale=en" alt="rohit133" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit133&" alt="rohit133" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohit133" alt="rohit133" /> 
+  <be>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohit133" alt="rohit133" /></p>
 
 
 
@@ -44,7 +45,6 @@ An NFT marketplace where users can mint, buy, and sell NFTs using crypto tokens.
 - ##### [LinkedIn](https://www.linkedin.com/in/rohit-sharma-25aa1116b/)
 
 Let’s collaborate and build something amazing! 😊
-
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=rohit133&color=green" alt="image"/>
